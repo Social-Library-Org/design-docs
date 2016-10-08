@@ -1,2 +1,2 @@
-# docs
-All working material around Social Library
+# Social Library design docs
+All design material around Social Library
