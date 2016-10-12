@@ -27,19 +27,19 @@
 
 - LibraryThing: https://www.librarything.com/
   - Pros:
-    - Allow to manage books
-    - Allow to lend between members
+     - Allow to manage books
+     - Allow to lend between members
   - Cons:
-    - Interface not very nice
-    -Closed system and partially only with paid-plan
+     - Interface not very nice
+     - Closed system and partially only with paid-plan
 
  - Manga Sanctuary: http://www.manga-sanctuary.com
    - Pros:
-    - Huge collection of mangas (connected to editors)
-    - Offers a MS card to automatically register books bought in a library
-    - Makes distinction between Japanese, French, Collector editions
-    - Offers to lend between members
-    - Allows to easily sell owned mangas
+     - Huge collection of mangas (connected to editors)
+     - Offers a MS card to automatically register books bought in a library
+     - Makes distinction between Japanese, French, Collector editions
+     - Offers to lend between members
+     - Allows to easily sell owned mangas
    - Cons:
      - Interface not very aesthetic
      - Limited to mangas
